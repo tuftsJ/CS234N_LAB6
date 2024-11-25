@@ -1,2 +1,1 @@
-# CS234N_LAB6
-Lab6
+# CS234N-TuftsJ-Lab-4
